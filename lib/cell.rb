@@ -1,3 +1,5 @@
+# This code was written by Makers Academy, not me. I'm only developing the web version
+
 require 'set'
 
 class Cell

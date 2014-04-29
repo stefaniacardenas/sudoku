@@ -1,3 +1,4 @@
+# This code was written by Makers Academy, not me. I'm only developing the web version
 class Sudoku
   
   COLUMN_SIZE = 9
