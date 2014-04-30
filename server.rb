@@ -2,7 +2,8 @@ require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 
-enable :session
+enable :sessions
+set :session_secret, 'This is a secret key'
 
 def random_sudoku
 	seed = (1..9).to_a.shuffle + Array.new(81-9, 0)
@@ -12,11 +13,9 @@ def random_sudoku
 end
 
 def puzzle(sudoku)
-	40.times do
-		random_index = rand(sudoku.length)
-		sudoku[random_index] = 0
-	end
-	sudoku
+	puzzle_sudoku = sudoku.dup
+	45.times {puzzle_sudoku[rand(81)] = ""}
+	puzzle_sudoku
 end
 
 get '/' do
@@ -25,3 +24,8 @@ get '/' do
 	@current_solution = puzzle(sudoku)
 	erb :index
 end 
+
+get '/solution' do 
+	@current_solution = session[:solution]
+	erb :index
+end

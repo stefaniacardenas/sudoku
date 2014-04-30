@@ -1,2 +1,2 @@
-require './sudoku'
+require './server'
 run Sinatra::Application
