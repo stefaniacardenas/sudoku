@@ -11,11 +11,17 @@ def random_sudoku
 	sudoku.to_s.chars
 end
 
-# def puzzle(sudoku)
-# end
+def puzzle(sudoku)
+	40.times do
+		random_index = rand(sudoku.length)
+		sudoku[random_index] = 0
+	end
+	sudoku
+end
 
 get '/' do
+	sudoku = random_sudoku
 	session[:solution] = sudoku
-	@current_solution = random_sudoku
+	@current_solution = puzzle(sudoku)
 	erb :index
 end 
