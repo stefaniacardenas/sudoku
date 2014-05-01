@@ -19,9 +19,9 @@ def random_sudoku
 	sudoku.to_s.chars
 end
 
-def puzzle(sudoku)
+def puzzle(sudoku,number)
 	puzzle_sudoku = sudoku.dup
-	50.times {puzzle_sudoku[rand(sudoku.length)] = "0"}
+	number.times {puzzle_sudoku[rand(sudoku.length)] = "0"}
 	puzzle_sudoku
 end
 
@@ -39,11 +39,11 @@ def box_order_to_row_order(cells)
   }
   end
 
-def generate_new_puzzle_if_necessary
+def generate_new_puzzle_if_necessary(number = 50)
     return if session[:current_solution]
     sudoku = random_sudoku
     session[:solution] = sudoku
-    session[:puzzle] = puzzle(sudoku)
+    session[:puzzle] = puzzle(sudoku,number)
     session[:current_solution] = session[:puzzle]
   end
   
@@ -77,3 +77,33 @@ def generate_new_puzzle_if_necessary
     session[:check_solution] = true
     redirect to("/")
   end
+
+  post '/easy' do
+    session.clear
+    generate_new_puzzle_if_necessary(10)
+    redirect to('/')
+  end
+
+   post '/medium' do
+    session.clear
+    generate_new_puzzle_if_necessary(30)
+    redirect to('/')
+  end
+
+    post '/hard' do
+    session.clear
+    generate_new_puzzle_if_necessary(45)
+    redirect to('/')
+  end
+
+  #  post '/' do
+  #   session.clear
+  #   level(medium)
+  #   erb :index
+  # end
+
+  #  post '/' do
+  #   session.clear
+  #   level(hard)
+  #   erb :index
+  # end
