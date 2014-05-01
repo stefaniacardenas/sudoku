@@ -1,10 +1,18 @@
-div.box, div.cell {
+div.box {
 	display: inline-block;
+	outline: 2px solid red;
+}
+
+ div.cell {
+	display: inline-block;
+	border: 2px solid green;
 }
 
 .cell input {
 	width: 30px;
 	height: 30px;
+	font-size: 14;
+	text-align: center;
 }
 
 body {
@@ -15,6 +23,12 @@ body {
 #sudoku {
 	font-size: 0;
 	text-align: center;
+}
 
-	<input type="text" maxlength="1" autocomplete="off">
+.incorrect {
+	background-color: yellow;
+}
+
+.value-provided {
+	background-color: #DDD;
 }
