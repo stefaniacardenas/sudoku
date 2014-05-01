@@ -7,6 +7,7 @@
 <body>
 	<h1>Life is too short for playing Sudoku</h1>
 	<div id="sudoku">
+		@font-face { font-family: cool_font; src: url('./font/Zenzai Itache.ttf'); }
 		<form action="/" method="post">
 		<% 3.times do |row| %>
 			<div class="row">
@@ -23,7 +24,6 @@
                   			@puzzle[cell_index], 
                   			@current_solution[cell_index], 
                   			@solution[cell_index])  %>
-                  			
                     <input name="cell[]" class="<%= colour_class %>" type="text" 
                       maxlength="1" autocomplete="off" value = "<%= cell_value %>">
 									</div>

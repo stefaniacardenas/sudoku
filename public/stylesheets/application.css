@@ -1,11 +1,11 @@
 div.box {
 	display: inline-block;
-	outline: 2px solid red;
+	outline: 3px solid black;
 }
 
  div.cell {
 	display: inline-block;
-	border: 2px solid green;
+	border: 1px solid black;
 }
 
 .cell input {

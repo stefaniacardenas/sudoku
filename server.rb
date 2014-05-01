@@ -1,7 +1,9 @@
 require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
-require_relative './helpers/application'
+require_relative './helpers/application' 
+require 'sinatra/partial'
+set :partial_template_engine, :erb
 
 enable :sessions
 set :session_secret, 'This is a secret key' 
