@@ -2,8 +2,12 @@ require 'sinatra'
 require_relative './lib/sudoku'
 require_relative './lib/cell'
 require_relative './helpers/application' 
+
 require 'sinatra/partial'
 set :partial_template_engine, :erb
+
+require 'rack-flash'
+use Rack::Flash
 
 enable :sessions
 set :session_secret, 'This is a secret key' 
@@ -45,6 +49,9 @@ def generate_new_puzzle_if_necessary
   
   def prepare_to_check_solution
     @check_solution = session[:check_solution]
+    if @check_solution
+      flash[:notice] = "Incorrect values are highlighted in yellow"
+    end
     session[:check_solution] = nil
   end
 
