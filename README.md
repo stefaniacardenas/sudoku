@@ -17,6 +17,5 @@ If you are interested in Makers Academy please visit [Makers Academy] (http://ww
 Greetings
 ---------
 
-Thanks for reading this.
 This file was created by 
 **Stefania F. Cardenas**
