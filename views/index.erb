@@ -39,6 +39,7 @@
 
 			<button id="solution_button">Check solution</button>
 		</form>
+		
 		<form action="/solution" method="get">
 			<button id="show_solution_btn">Show solution</button>
 		</form>
@@ -48,8 +49,24 @@
 		</form>
 
 		<div class="difficulty">
+			<form action="/easy" method="post">
+				<button id="easy_btn">Easy</button>
+			</form>
 
-	</div>
+			<form action="/medium" method="post">
+				<button id="medium_btn">Medium</button>
+			</form>
+
+			<form action="/hard" method="post">
+				<button id="hard_btn">Hard</button>
+			</form>
+
+		</div>
+
+		<form action="http://en.wikipedia.org/wiki/Sudoku" type="submit">
+			<button id="help_btn">Help</button>
+		</form>
+
 	</div>
 </body>
 </html>
