@@ -7,7 +7,7 @@ require 'sinatra/partial'
 set :partial_template_engine, :erb
 
 require 'rack-flash'
-use Rack::Flash
+use Rack::Flash, :sweep =>true
 
 enable :sessions
 set :session_secret, 'This is a secret key' 
@@ -50,7 +50,7 @@ def generate_new_puzzle_if_necessary(number = 50)
   def prepare_to_check_solution
     @check_solution = session[:check_solution]
     if @check_solution
-      flash[:notice] = "Incorrect values are highlighted in red"
+      flash.now[:notice] = "Incorrect values are highlighted in red"
     end
     session[:check_solution] = nil
   end
@@ -59,6 +59,14 @@ def generate_new_puzzle_if_necessary(number = 50)
     @current_solution = session[:solution]
     @solution = session[:solution]
     @puzzle = session[:puzzle]  
+    erb :index
+  end
+
+  post '/reset' do
+    @current_solution = session[:current_solution] || session[:puzzle]
+    @solution = session[:solution]
+    @puzzle = session[:puzzle]
+    session[:current_solution] = session[:puzzle]
     erb :index
   end
 
