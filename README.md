@@ -12,11 +12,10 @@ More details coming up.
 About Makers Academy
 -----------
 Makers Academy is a highly-selective, 12 week, full-time program that teaches web development. 
-If you are interested in Makers Academy please visit [Makers Academy] (http://www.makersacademy.com/‎)
+If you are interested in Makers Academy please visit [Makers Academy] (http://www.makersacademy.com/‎).
 
-Greetings
+Credits
 ---------
 
-Thanks for reading this.
-This file was created by 
+This project was created by 
 **Stefania F. Cardenas**

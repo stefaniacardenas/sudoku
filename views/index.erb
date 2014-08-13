@@ -5,7 +5,7 @@
 </head>
 
 <body>
-	<h1>Life is too short for playing Sudoku</h1>
+	<h1>Keep calm and play Sudoku!</h1>
 	<div id="flash">
 	<%= flash[:notice] %>
 	</div>
@@ -39,6 +39,10 @@
 
 			<button id="solution_button">Check solution</button>
 		</form>
+		<form action="/solution" method="get">
+			<button id="show_solution_btn">Show solution</button>
+		</form>
+
 		<div class="difficulty">
 
 	</div>
