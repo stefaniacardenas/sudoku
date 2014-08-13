@@ -18,6 +18,9 @@ div.box {
 body {
 	text-align: center;
 	font-family: Palatino;
+  background-image: url("/background3.jpg");
+  background-repeat: round;
+  background-position: left top;
 }
 
 #sudoku {
