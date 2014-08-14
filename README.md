@@ -2,7 +2,8 @@
 ==================
 
 This is my fifth week project at Makers Academy. 
-It's a website that will allow you to play sudoku online. 
+It's a website that will allow you to play sudoku online.
+![alt tag](https://github.com/stefaniacardenas/sudoku/blob/master/public/sudoku.png)
 
 Technologies used
 -----------
