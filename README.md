@@ -23,6 +23,6 @@ If you are interested in Makers Academy please visit [Makers Academy] (http://ww
 
 Credits
 ---------
-
 This project was created by 
 **Stefania F. Cardenas**
+
