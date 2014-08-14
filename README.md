@@ -2,11 +2,12 @@
 ==================
 
 This is my fifth week project at Makers Academy. 
-It's a website that will allow you to play sudoku online.
-The exercise involves basic math logic, object-oriented-programming, knowledge Strings, Arrays and Hashes, basic knowledge of HTML5 and CSS3.
+The app allows you to play sudoku online.
+The exercise involves basic math logic, object-oriented-programming, knowledge of strings, arrays and hashes, knowledge of HTML5 and CSS3.
 
+This project is our first project that will be uploaded to the web using Heroku. The main aim is to build a greater understanding of the practical application of Ruby code in a live web setting.
 
-The app has been deployed to Heroku and is available [here] (http://my-sudoku.herokuapp.com). Hope you enjoy it!
+My sudoku app is available [here] (http://my-sudoku.herokuapp.com). Hope you enjoy it!
 ![alt tag](https://github.com/stefaniacardenas/sudoku/blob/master/public/sudoku.png)
 
 
