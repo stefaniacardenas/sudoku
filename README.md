@@ -4,6 +4,7 @@
 This is my fifth week project at Makers Academy. 
 It's a website that will allow you to play sudoku online.
 ![alt tag](https://github.com/stefaniacardenas/sudoku/blob/master/public/sudoku.png)
+You can play Sudoku [here] (http://my-sudoku.herokuapp.com). Hope you enjoy it!
 
 Technologies used
 -----------
