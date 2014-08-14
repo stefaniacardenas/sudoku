@@ -5,67 +5,70 @@
 </head>
 
 <body>
-	<h1>Keep calm and play Sudoku!</h1>
+	<h1>Keep calm and play Sudoku</h1>
 	<div id="flash">
 	<%= flash[:notice] %>
 	</div>
-	<div id="sudoku">
-		<form action="/" method="post">
-		<% 3.times do |row| %>
-			<div class="row">
-				<% 3.times do |box| %>
-					<div class="box">
-						<% 3.times do |cell_row| %>
-							<div class='cell-row'>
-								<% 3.times do |cell| %>
-									<div class="cell">
-										<% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
-										<% cell_value = cell_value(@current_solution[cell_index]) %>
-                  	<% colour_class = colour_class(
-                  			@check_solution, 
-                  			@puzzle[cell_index], 
-                  			@current_solution[cell_index], 
-                  			@solution[cell_index])  %>
-                    <input name="cell[]" class="<%= colour_class %>" type="text" 
-                      maxlength="1" autocomplete="off" value = "<%= cell_value %>">
-									</div>
-								<% end %>
-							</div>
-						<% end %>
-					</div>
-				<% end %>
-			</div>
-		<% end %>
 
-			<button id="solution_button">Check solution</button>
-		</form>
+	<div class="game-container">
+
+		<div class="controls">
 		
-		<form action="/solution" method="get">
-			<button id="show_solution_btn">Show solution</button>
-		</form>
-
-		<form action="/reset" method="post">
-			<button id="reset_btn">Reset</button>
-		</form>
-
-		<div class="difficulty">
-			<form action="/easy" method="post">
-				<button id="easy_btn">Easy</button>
+			<form action="/solution" method="get">
+				<button id="show_solution_btn">Solution</button>
 			</form>
 
-			<form action="/medium" method="post">
-				<button id="medium_btn">Medium</button>
+			<form action="/reset" method="post">
+				<button id="reset_btn">Reset</button>
 			</form>
 
-			<form action="/hard" method="post">
-				<button id="hard_btn">Hard</button>
+			<form action="http://en.wikipedia.org/wiki/Sudoku" type="submit">
+				<button id="help_btn">Rules</button>
 			</form>
-
 		</div>
 
-		<form action="http://en.wikipedia.org/wiki/Sudoku" type="submit">
-			<button id="help_btn">Help</button>
+		<form id="sudoku" action="/" method="post">
+			<% 3.times do |row| %>
+				<div class="row">
+					<% 3.times do |box| %>
+						<div class="box">
+							<% 3.times do |cell_row| %>
+								<div class='cell-row'>
+									<% 3.times do |cell| %>
+										<div class="cell">
+											<% cell_index = row * 27 + box * 3 + cell_row * 9 + cell %>
+											<% cell_value = cell_value(@current_solution[cell_index]) %>
+	                  	<% colour_class = colour_class(
+	                  			@check_solution, 
+	                  			@puzzle[cell_index], 
+	                  			@current_solution[cell_index], 
+	                  			@solution[cell_index])  %>
+	                    <input name="cell[]" class="<%= colour_class %>" type="text" 
+	                      maxlength="1" autocomplete="off" value = "<%= cell_value %>">
+										</div>
+									<% end %>
+								</div>
+							<% end %>
+						</div>
+					<% end %>
+				</div>
+			<% end %>
+			<button id="hint_btn">Hint</button>
 		</form>
+
+		<div class="level">
+		<form action="/easy" method="post">
+			<button id="easy_btn">Easy</button>
+		</form>
+
+		<form action="/medium" method="post">
+			<button id="medium_btn">Medium</button>
+		</form>
+
+		<form action="/hard" method="post">
+			<button id="hard_btn">Hard</button>
+		</form>
+	</div>
 
 	</div>
 </body>

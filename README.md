@@ -4,10 +4,17 @@
 This is my fifth week project at Makers Academy. 
 It's a website that will allow you to play sudoku online. 
 
-How it works
+Technologies used
 -----------
-
-More details coming up.
+* Ruby
+* Sinatra
+* HTML5
+* CSS3
+* Fistface
+* S3
+* Heroku
+* NewRelic
+* Shotgun
 
 About Makers Academy
 -----------
