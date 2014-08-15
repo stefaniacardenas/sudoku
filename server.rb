@@ -103,15 +103,3 @@ def generate_new_puzzle_if_necessary(number = 50)
     generate_new_puzzle_if_necessary(45)
     redirect to('/')
   end
-
-  #  post '/' do
-  #   session.clear
-  #   level(medium)
-  #   erb :index
-  # end
-
-  #  post '/' do
-  #   session.clear
-  #   level(hard)
-  #   erb :index
-  # end

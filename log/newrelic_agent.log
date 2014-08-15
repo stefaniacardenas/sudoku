@@ -1519,3 +1519,1017 @@
 [08/14/14 01:37:22 +0100 MacBook-di-Stefania.local (1010)] INFO : Installing deferred Rack instrumentation
 [08/14/14 01:37:22 +0100 MacBook-di-Stefania.local (1010)] INFO : Finished instrumentation
 [08/14/14 01:37:22 +0100 MacBook-di-Stefania.local (1010)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Enabling the Request Sampler.
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Environment: development
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Dispatcher: webrick
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] INFO : Application: My Application
+[08/15/14 18:36:34 +0100 MacBook-di-Stefania.local (2835)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:36:35 +0100 MacBook-di-Stefania.local (2835)] INFO : Installing Net instrumentation
+[08/15/14 18:36:35 +0100 MacBook-di-Stefania.local (2835)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:36:35 +0100 MacBook-di-Stefania.local (2835)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:36:35 +0100 MacBook-di-Stefania.local (2835)] INFO : Finished instrumentation
+[08/15/14 18:36:35 +0100 MacBook-di-Stefania.local (2835)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Enabling the Request Sampler.
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Environment: development
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Dispatcher: webrick
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Application: My Application
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Installing Net instrumentation
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Finished instrumentation
+[08/15/14 18:36:59 +0100 MacBook-di-Stefania.local (2839)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Environment: development
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Dispatcher: webrick
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Application: My Application
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Installing Net instrumentation
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Finished instrumentation
+[08/15/14 18:37:00 +0100 MacBook-di-Stefania.local (2840)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Environment: development
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Dispatcher: webrick
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Application: My Application
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Installing Net instrumentation
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Finished instrumentation
+[08/15/14 18:37:04 +0100 MacBook-di-Stefania.local (2841)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Environment: development
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Dispatcher: webrick
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Application: My Application
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Installing Net instrumentation
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Finished instrumentation
+[08/15/14 18:37:05 +0100 MacBook-di-Stefania.local (2842)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Environment: development
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Dispatcher: webrick
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Application: My Application
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Installing Net instrumentation
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Finished instrumentation
+[08/15/14 18:37:24 +0100 MacBook-di-Stefania.local (2843)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Environment: development
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Dispatcher: webrick
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Application: My Application
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Installing Net instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Finished instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2844)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Environment: development
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Dispatcher: webrick
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Application: My Application
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Installing Net instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Finished instrumentation
+[08/15/14 18:37:31 +0100 MacBook-di-Stefania.local (2845)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Environment: development
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Dispatcher: webrick
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Application: My Application
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Installing Net instrumentation
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Finished instrumentation
+[08/15/14 18:37:40 +0100 MacBook-di-Stefania.local (2846)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Environment: development
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Dispatcher: webrick
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Application: My Application
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Installing Net instrumentation
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Finished instrumentation
+[08/15/14 18:37:41 +0100 MacBook-di-Stefania.local (2847)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Environment: development
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Dispatcher: webrick
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Application: My Application
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Installing Net instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Finished instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2848)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Enabling the Request Sampler.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Environment: development
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Dispatcher: webrick
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Application: My Application
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Installing Net instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Finished instrumentation
+[08/15/14 18:37:48 +0100 MacBook-di-Stefania.local (2849)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Enabling the Request Sampler.
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Environment: development
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Dispatcher: webrick
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Application: My Application
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Installing Net instrumentation
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Finished instrumentation
+[08/15/14 18:38:45 +0100 MacBook-di-Stefania.local (2850)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Enabling the Request Sampler.
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Environment: development
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Dispatcher: webrick
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Application: My Application
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Installing Net instrumentation
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Finished instrumentation
+[08/15/14 18:38:56 +0100 MacBook-di-Stefania.local (2851)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Environment: development
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Dispatcher: webrick
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Application: My Application
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Installing Net instrumentation
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Finished instrumentation
+[08/15/14 18:49:00 +0100 MacBook-di-Stefania.local (2862)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Environment: development
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Dispatcher: webrick
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Application: My Application
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Installing Net instrumentation
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Finished instrumentation
+[08/15/14 18:49:03 +0100 MacBook-di-Stefania.local (2863)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Environment: development
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Dispatcher: webrick
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Application: My Application
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Installing Net instrumentation
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Finished instrumentation
+[08/15/14 18:49:04 +0100 MacBook-di-Stefania.local (2864)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Environment: development
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Dispatcher: webrick
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Application: My Application
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Installing Net instrumentation
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Finished instrumentation
+[08/15/14 18:49:07 +0100 MacBook-di-Stefania.local (2867)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Environment: development
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Dispatcher: webrick
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Application: My Application
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Installing Net instrumentation
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Finished instrumentation
+[08/15/14 18:49:08 +0100 MacBook-di-Stefania.local (2868)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Environment: development
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Dispatcher: webrick
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Application: My Application
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Installing Net instrumentation
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Finished instrumentation
+[08/15/14 18:49:24 +0100 MacBook-di-Stefania.local (2869)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Enabling the Request Sampler.
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Environment: development
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Dispatcher: webrick
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Application: My Application
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Installing Net instrumentation
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Finished instrumentation
+[08/15/14 18:49:25 +0100 MacBook-di-Stefania.local (2870)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Enabling the Request Sampler.
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Environment: development
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Dispatcher: webrick
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Application: My Application
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Installing Net instrumentation
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Finished instrumentation
+[08/15/14 18:50:42 +0100 MacBook-di-Stefania.local (2873)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Enabling the Request Sampler.
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Environment: development
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Dispatcher: webrick
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Application: My Application
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Installing Net instrumentation
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Finished instrumentation
+[08/15/14 18:52:05 +0100 MacBook-di-Stefania.local (2881)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Enabling the Request Sampler.
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Environment: development
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Dispatcher: webrick
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Application: My Application
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Installing Net instrumentation
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Finished instrumentation
+[08/15/14 18:52:55 +0100 MacBook-di-Stefania.local (2883)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Enabling the Request Sampler.
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Environment: development
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Dispatcher: webrick
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Application: My Application
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Installing Net instrumentation
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Finished instrumentation
+[08/15/14 18:52:59 +0100 MacBook-di-Stefania.local (2884)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Enabling the Request Sampler.
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Environment: development
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Dispatcher: webrick
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Application: My Application
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Installing Net instrumentation
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Finished instrumentation
+[08/15/14 18:53:48 +0100 MacBook-di-Stefania.local (2886)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Enabling the Request Sampler.
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Environment: development
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Dispatcher: webrick
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Application: My Application
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Installing Net instrumentation
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Finished instrumentation
+[08/15/14 18:54:03 +0100 MacBook-di-Stefania.local (2888)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Enabling the Request Sampler.
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Environment: development
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Dispatcher: webrick
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Application: My Application
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Installing Net instrumentation
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Finished instrumentation
+[08/15/14 18:54:08 +0100 MacBook-di-Stefania.local (2889)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Enabling the Request Sampler.
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Environment: development
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Dispatcher: webrick
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Application: My Application
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] WARN : Agent configured not to send data in this environment.
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Installing Net instrumentation
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Installing Sinatra instrumentation
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Installing deferred Rack instrumentation
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Finished instrumentation
+[08/15/14 18:54:09 +0100 MacBook-di-Stefania.local (2890)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Enabling the Request Sampler.
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Environment: development
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Dispatcher: webrick
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Application: My Application
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Installing Net instrumentation
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Finished instrumentation
+[08/15/14 19:03:08 +0100 MacBook-di-Stefania.local (2900)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Enabling the Request Sampler.
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Environment: development
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Dispatcher: webrick
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] INFO : Application: My Application
+[08/15/14 19:03:11 +0100 MacBook-di-Stefania.local (2901)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2901)] INFO : Installing Net instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2901)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2901)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2901)] INFO : Finished instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2901)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Enabling the Request Sampler.
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Environment: development
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Dispatcher: webrick
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Application: My Application
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Installing Net instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Finished instrumentation
+[08/15/14 19:03:12 +0100 MacBook-di-Stefania.local (2902)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Enabling the Request Sampler.
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Environment: development
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Dispatcher: webrick
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Application: My Application
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Installing Net instrumentation
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Finished instrumentation
+[08/15/14 19:03:56 +0100 MacBook-di-Stefania.local (2903)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Enabling the Request Sampler.
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Environment: development
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Dispatcher: webrick
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Application: My Application
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Installing Net instrumentation
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Finished instrumentation
+[08/15/14 19:04:00 +0100 MacBook-di-Stefania.local (2905)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Enabling the Request Sampler.
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Environment: development
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Dispatcher: webrick
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Application: My Application
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Installing Net instrumentation
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Finished instrumentation
+[08/15/14 19:04:01 +0100 MacBook-di-Stefania.local (2907)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Enabling the Request Sampler.
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Environment: development
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Dispatcher: webrick
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Application: My Application
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Installing Net instrumentation
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Finished instrumentation
+[08/15/14 19:04:11 +0100 MacBook-di-Stefania.local (2908)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Enabling the Request Sampler.
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Environment: development
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Dispatcher: webrick
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Application: My Application
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Installing Net instrumentation
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Finished instrumentation
+[08/15/14 19:04:13 +0100 MacBook-di-Stefania.local (2909)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Enabling the Request Sampler.
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Environment: development
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Dispatcher: webrick
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Application: My Application
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Installing Net instrumentation
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Finished instrumentation
+[08/15/14 19:05:00 +0100 MacBook-di-Stefania.local (2910)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Enabling the Request Sampler.
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Environment: development
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Dispatcher: webrick
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Application: My Application
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Installing Net instrumentation
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Finished instrumentation
+[08/15/14 19:05:24 +0100 MacBook-di-Stefania.local (2911)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Enabling the Request Sampler.
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Environment: development
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Dispatcher: webrick
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Application: My Application
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Installing Net instrumentation
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Finished instrumentation
+[08/15/14 19:05:34 +0100 MacBook-di-Stefania.local (2912)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Enabling the Request Sampler.
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Environment: development
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Dispatcher: webrick
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Application: My Application
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Installing Net instrumentation
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Finished instrumentation
+[08/15/14 19:05:35 +0100 MacBook-di-Stefania.local (2913)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Enabling the Request Sampler.
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Environment: development
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Dispatcher: webrick
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Application: My Application
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Installing Net instrumentation
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Finished instrumentation
+[08/15/14 19:06:58 +0100 MacBook-di-Stefania.local (2917)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Enabling the Request Sampler.
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Environment: development
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Dispatcher: webrick
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Application: My Application
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Installing Net instrumentation
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Finished instrumentation
+[08/15/14 19:07:43 +0100 MacBook-di-Stefania.local (2919)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Enabling the Request Sampler.
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Environment: development
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Dispatcher: webrick
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Application: My Application
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Installing Net instrumentation
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Finished instrumentation
+[08/15/14 19:07:46 +0100 MacBook-di-Stefania.local (2920)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Enabling the Request Sampler.
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Environment: development
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Dispatcher: webrick
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Application: My Application
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Installing Net instrumentation
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Finished instrumentation
+[08/15/14 19:32:33 +0100 MacBook-di-Stefania.local (2985)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Enabling the Request Sampler.
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Environment: development
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Dispatcher: webrick
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Application: My Application
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Installing Net instrumentation
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Finished instrumentation
+[08/15/14 19:35:53 +0100 MacBook-di-Stefania.local (2993)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Enabling the Request Sampler.
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Environment: development
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Dispatcher: webrick
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] INFO : Application: My Application
+[08/15/14 19:48:39 +0100 MacBook-di-Stefania.local (3052)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:48:40 +0100 MacBook-di-Stefania.local (3052)] INFO : Installing Net instrumentation
+[08/15/14 19:48:40 +0100 MacBook-di-Stefania.local (3052)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:48:40 +0100 MacBook-di-Stefania.local (3052)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:48:40 +0100 MacBook-di-Stefania.local (3052)] INFO : Finished instrumentation
+[08/15/14 19:48:40 +0100 MacBook-di-Stefania.local (3052)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Enabling the Request Sampler.
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Environment: development
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Dispatcher: webrick
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] INFO : Application: My Application
+[08/15/14 19:50:24 +0100 MacBook-di-Stefania.local (3057)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:50:25 +0100 MacBook-di-Stefania.local (3057)] INFO : Installing Net instrumentation
+[08/15/14 19:50:25 +0100 MacBook-di-Stefania.local (3057)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:50:25 +0100 MacBook-di-Stefania.local (3057)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:50:25 +0100 MacBook-di-Stefania.local (3057)] INFO : Finished instrumentation
+[08/15/14 19:50:25 +0100 MacBook-di-Stefania.local (3057)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Enabling the Request Sampler.
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Environment: development
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Dispatcher: webrick
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Application: My Application
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Installing Net instrumentation
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Finished instrumentation
+[08/15/14 19:50:26 +0100 MacBook-di-Stefania.local (3059)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Enabling the Request Sampler.
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Environment: development
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Dispatcher: webrick
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Application: My Application
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Installing Net instrumentation
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Finished instrumentation
+[08/15/14 19:51:01 +0100 MacBook-di-Stefania.local (3064)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Enabling the Request Sampler.
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Environment: development
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Dispatcher: webrick
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Application: My Application
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Installing Net instrumentation
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Finished instrumentation
+[08/15/14 19:51:20 +0100 MacBook-di-Stefania.local (3066)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Enabling the Request Sampler.
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Environment: development
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Dispatcher: webrick
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Application: My Application
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Installing Net instrumentation
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Finished instrumentation
+[08/15/14 19:51:21 +0100 MacBook-di-Stefania.local (3068)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Enabling the Request Sampler.
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Environment: development
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Dispatcher: webrick
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] INFO : Application: My Application
+[08/15/14 19:52:06 +0100 MacBook-di-Stefania.local (3073)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:52:07 +0100 MacBook-di-Stefania.local (3073)] INFO : Installing Net instrumentation
+[08/15/14 19:52:07 +0100 MacBook-di-Stefania.local (3073)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:52:07 +0100 MacBook-di-Stefania.local (3073)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:52:07 +0100 MacBook-di-Stefania.local (3073)] INFO : Finished instrumentation
+[08/15/14 19:52:07 +0100 MacBook-di-Stefania.local (3073)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Enabling the Request Sampler.
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Environment: development
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Dispatcher: webrick
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Application: My Application
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Installing Net instrumentation
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Finished instrumentation
+[08/15/14 19:52:52 +0100 MacBook-di-Stefania.local (3075)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Enabling the Request Sampler.
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Environment: development
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Dispatcher: webrick
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Application: My Application
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Installing Net instrumentation
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Finished instrumentation
+[08/15/14 19:52:59 +0100 MacBook-di-Stefania.local (3076)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Environment: development
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Dispatcher: webrick
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Application: My Application
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Installing Net instrumentation
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Finished instrumentation
+[08/15/14 19:53:00 +0100 MacBook-di-Stefania.local (3077)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Environment: development
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Dispatcher: webrick
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Application: My Application
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Installing Net instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Finished instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3078)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Environment: development
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Dispatcher: webrick
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Application: My Application
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Installing Net instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Finished instrumentation
+[08/15/14 19:53:08 +0100 MacBook-di-Stefania.local (3079)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Environment: development
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Dispatcher: webrick
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Application: My Application
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Installing Net instrumentation
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Finished instrumentation
+[08/15/14 19:53:11 +0100 MacBook-di-Stefania.local (3080)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Environment: development
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Dispatcher: webrick
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Application: My Application
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Environment: development
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Dispatcher: webrick
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Application: My Application
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Installing Net instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Finished instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3082)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Installing Net instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Finished instrumentation
+[08/15/14 19:53:19 +0100 MacBook-di-Stefania.local (3081)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Environment: development
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Dispatcher: webrick
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Application: My Application
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Installing Net instrumentation
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Finished instrumentation
+[08/15/14 19:53:20 +0100 MacBook-di-Stefania.local (3083)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Environment: development
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Dispatcher: webrick
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Application: My Application
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Installing Net instrumentation
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Finished instrumentation
+[08/15/14 19:53:38 +0100 MacBook-di-Stefania.local (3084)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Environment: development
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Dispatcher: webrick
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Application: My Application
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Installing Net instrumentation
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Finished instrumentation
+[08/15/14 19:53:41 +0100 MacBook-di-Stefania.local (3085)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Environment: development
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Dispatcher: webrick
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Application: My Application
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Installing Net instrumentation
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Finished instrumentation
+[08/15/14 19:53:44 +0100 MacBook-di-Stefania.local (3086)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Environment: development
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Dispatcher: webrick
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Application: My Application
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Environment: development
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Dispatcher: webrick
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Application: My Application
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Installing Net instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Finished instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3089)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Installing Net instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Finished instrumentation
+[08/15/14 19:53:52 +0100 MacBook-di-Stefania.local (3088)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Enabling the Request Sampler.
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Environment: development
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Dispatcher: webrick
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Application: My Application
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Installing Net instrumentation
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Finished instrumentation
+[08/15/14 19:53:55 +0100 MacBook-di-Stefania.local (3090)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Environment: development
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Dispatcher: webrick
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Application: My Application
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Installing Net instrumentation
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Finished instrumentation
+[08/15/14 19:56:04 +0100 MacBook-di-Stefania.local (3094)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Environment: development
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Dispatcher: webrick
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Application: My Application
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Installing Net instrumentation
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Finished instrumentation
+[08/15/14 19:56:07 +0100 MacBook-di-Stefania.local (3095)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Environment: development
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Dispatcher: webrick
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Application: My Application
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Installing Net instrumentation
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Finished instrumentation
+[08/15/14 19:56:08 +0100 MacBook-di-Stefania.local (3096)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Environment: development
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Dispatcher: webrick
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Application: My Application
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Installing Net instrumentation
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Finished instrumentation
+[08/15/14 19:56:12 +0100 MacBook-di-Stefania.local (3097)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Environment: development
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Dispatcher: webrick
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Application: My Application
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Installing Net instrumentation
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Finished instrumentation
+[08/15/14 19:56:15 +0100 MacBook-di-Stefania.local (3098)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Environment: development
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Dispatcher: webrick
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Application: My Application
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Installing Net instrumentation
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Finished instrumentation
+[08/15/14 19:56:16 +0100 MacBook-di-Stefania.local (3099)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Environment: development
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Dispatcher: webrick
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Application: My Application
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Installing Net instrumentation
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Finished instrumentation
+[08/15/14 19:56:22 +0100 MacBook-di-Stefania.local (3100)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Environment: development
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Dispatcher: webrick
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Application: My Application
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Installing Net instrumentation
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Finished instrumentation
+[08/15/14 19:56:25 +0100 MacBook-di-Stefania.local (3101)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Environment: development
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Dispatcher: webrick
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] INFO : Application: My Application
+[08/15/14 19:56:32 +0100 MacBook-di-Stefania.local (3102)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3102)] INFO : Installing Net instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3102)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3102)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3102)] INFO : Finished instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3102)] INFO : Doing deferred dependency-detection before Rack startup
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Starting the New Relic agent in "development" environment.
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Reading configuration from config/newrelic.yml
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Enabling the Request Sampler.
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Environment: development
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Dispatcher: webrick
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Application: My Application
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] WARN : Agent configured not to send data in this environment.
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Installing Net instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Installing Sinatra instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Installing deferred Rack instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Finished instrumentation
+[08/15/14 19:56:33 +0100 MacBook-di-Stefania.local (3103)] INFO : Doing deferred dependency-detection before Rack startup
