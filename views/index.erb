@@ -2,30 +2,6 @@
 <head>
 	<title>Sudoku Game</title>
 	<link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
-	<script>
-
-		function loadXMLDoc()
-			{
-				var xmlhttp;
-				if (window.XMLHttpRequest)
-				  {// code for IE7+, Firefox, Chrome, Opera, Safari
-				  xmlhttp=new XMLHttpRequest();
-				  }
-				else
-				  {// code for IE6, IE5
-				  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-				  }
-				xmlhttp.onreadystatechange=function()
-				  {
-				  if (xmlhttp.readyState==4 && xmlhttp.status==200)
-				    {
-				    document.getElementById("flash").innerHTML=xmlhttp.responseText;
-			  }
-			}
-			xmlhttp.open("GET","/",true);
-			xmlhttp.send();
-			}
-		</script>
 </head>
 
 <body>
@@ -50,9 +26,10 @@
 				<button id="help_btn">Rules</button>
 			</form>
 		</div>
+
 			<form id="sudoku" action="/" method="post">
 				<% 3.times do |row| %>
-					<div class="row"></table>
+					<div class="row">
 						<% 3.times do |box| %>
 							<div class="box">
 								<% 3.times do |cell_row| %>
@@ -66,8 +43,7 @@
 		                  			@puzzle[cell_index], 
 		                  			@current_solution[cell_index], 
 		                  			@solution[cell_index])  %>
-		                    <input name="cell[]" class="<%= colour_class %>" type="text" 
-		                      maxlength="1" autocomplete="off" value = "<%= cell_value %>">
+		                    <input name="cell[]" class="<%= colour_class %>" type="text" maxlength="1" autocomplete="off" value = "<%= cell_value %>">
 											</div>
 										<% end %>
 									</div>
@@ -76,7 +52,7 @@
 						<% end %>
 					</div>
 				<% end %>
-				<button id="hint_btn" onclick="loadXMLDoc()">Hint</button>
+				<button id="hint_btn">Hint</button>
 			</form>
 		
 
