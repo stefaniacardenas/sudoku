@@ -50,7 +50,7 @@ def generate_new_puzzle_if_necessary(number = 50)
   def prepare_to_check_solution
     @check_solution = session[:check_solution]
     if @check_solution
-      flash[:notice] = "Incorrect values are highlighted in red"
+      flash[:notice] = "Incorrect values!"
     end
     session[:check_solution] = nil
   end
